@@ -5,8 +5,12 @@
         <group>
             <file>file:/C:/Users/Asus/Documents/NetBeansProjects/Praktikum7/src/perbankan/Nasabah.java</file>
             <file>file:/C:/Users/Asus/Documents/NetBeansProjects/Praktikum7/src/perbankan/Bank.java</file>
-            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/Praktikum7/src/perbankan/Tabungan.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/Praktikum7/src/perbankan/Admin.java</file>
             <file>file:/C:/Users/Asus/Documents/NetBeansProjects/Praktikum7/src/View/PerbankanView.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/Praktikum7/src/View/LoginView.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/Praktikum7/src/View/HomeView.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/Praktikum7/src/View/AdminView.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/Praktikum7/src/View/MainFrame.java</file>
             <file>file:/C:/Users/Asus/Documents/NetBeansProjects/Praktikum7/src/View/NasabahView.java</file>
         </group>
     </open-files>
